@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: white;
+    margin-left: 200px;
+    margin-top: 250px;
+    text-decoration: none;
+    font-weight: none;
+}
+ol{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 190%;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.bb{
+    margin-left: 20px;
+}
